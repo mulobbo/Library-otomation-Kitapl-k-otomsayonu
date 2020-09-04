@@ -1,0 +1,10 @@
+C:\Users\utkua\Desktop\c#kodlar\sharp\access\Kitaplıkproje\Kitaplıkproje\bin\Debug\Kitaplıkproje.exe.config
+C:\Users\utkua\Desktop\c#kodlar\sharp\access\Kitaplıkproje\Kitaplıkproje\bin\Debug\Kitaplıkproje.exe
+C:\Users\utkua\Desktop\c#kodlar\sharp\access\Kitaplıkproje\Kitaplıkproje\bin\Debug\Kitaplıkproje.pdb
+C:\Users\utkua\Desktop\c#kodlar\sharp\access\Kitaplıkproje\Kitaplıkproje\obj\Debug\Kitaplıkproje.csprojAssemblyReference.cache
+C:\Users\utkua\Desktop\c#kodlar\sharp\access\Kitaplıkproje\Kitaplıkproje\obj\Debug\Kitaplıkproje.Form1.resources
+C:\Users\utkua\Desktop\c#kodlar\sharp\access\Kitaplıkproje\Kitaplıkproje\obj\Debug\Kitaplıkproje.Properties.Resources.resources
+C:\Users\utkua\Desktop\c#kodlar\sharp\access\Kitaplıkproje\Kitaplıkproje\obj\Debug\Kitaplıkproje.csproj.GenerateResource.cache
+C:\Users\utkua\Desktop\c#kodlar\sharp\access\Kitaplıkproje\Kitaplıkproje\obj\Debug\Kitaplıkproje.csproj.CoreCompileInputs.cache
+C:\Users\utkua\Desktop\c#kodlar\sharp\access\Kitaplıkproje\Kitaplıkproje\obj\Debug\Kitaplıkproje.exe
+C:\Users\utkua\Desktop\c#kodlar\sharp\access\Kitaplıkproje\Kitaplıkproje\obj\Debug\Kitaplıkproje.pdb
